@@ -1,9 +1,11 @@
 # JavaScript-Todo-List-Project
 
-<h2>How to build a Todo List App with JavaScript</h3>
-
+<h3>How to build a Todo List App with JavaScript</h3>
 This is a sample project how to create a todo list using Jaascript with the basic knowledge of JavaScript. You will find how to used the filter function, addEventListener and array changing with Modren es6 Arrow functions, etc.
  
+ # Link 
+ https://javascripttodolist.web.app/
+
 
 # App.js file
 <code>
